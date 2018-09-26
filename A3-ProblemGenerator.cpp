@@ -1,3 +1,12 @@
+/**
+A full sub-graphs generation program
+  and testing automation wrapper
+  (selective SAT / UNSAT input graphs)
+  for IITD/AI/COL333-671/2018/A3
+  Version : 1.1 (2018-09-26)
+          By Sachin (CSE PhD)
+*/
+
 #include <iostream>
 #include <fstream>
 #include <vector>
